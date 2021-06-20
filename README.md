@@ -21,4 +21,6 @@ In this tutorial I will cover,
 
 Don’t forget  to like and subscribe to our Youtube channel 👍
 
+Docker Image : https://hub.docker.com/r/andreanimi/demo-react-app
+
 ![Kubernetes for Beginners](2.jpg)
